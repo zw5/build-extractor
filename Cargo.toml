@@ -1,5 +1,5 @@
 [package]
-name = "log_extractor"
+name = "build-extractor"
 version = "0.1.0"
 authors = ["creator1372 <27164429+zw5@users.noreply.github.com>"]
 edition = "2018"
